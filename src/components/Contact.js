@@ -76,7 +76,7 @@ const Contact = () => {
           <img src={addressIcon} alt="Address" style={styles.image} />
           <p>
             <a
-              href="https://maps.app.goo.gl/F619vJNMjYvfqrHC6"
+              href="https://maps.app.goo.gl/BbKDcetuDsWbYxzE7"
               target="_blank"
               rel="noopener noreferrer"
               style={styles.link}
